@@ -4,43 +4,47 @@
     "url": "https://adacnet.devilcraft.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/adacnet.devilcraft.eu.ico",
     "slug": "adac-net-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 637,
     "timeDay": 599,
     "timeWeek": 719,
     "timeMonth": 637,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-17": 2
+    }
   },
   {
     "name": "ADACNet Web2",
     "url": "https://adacnet.devilcraft.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/adacnet.devilcraft.eu.ico",
     "slug": "adac-net-web2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 134,
     "timeDay": 131,
     "timeWeek": 154,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-17": 1
+    }
   },
   {
     "name": "Database",
     "url": "45.84.196.164",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 135,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   }
 ]
