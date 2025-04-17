@@ -4,19 +4,19 @@
     "url": "https://adacnet.devilcraft.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/adacnet.devilcraft.eu.ico",
     "slug": "adac-net-web",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 637,
-    "timeDay": 599,
-    "timeWeek": 719,
-    "timeMonth": 637,
-    "timeYear": 637,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 657,
+    "timeDay": 794,
+    "timeWeek": 766,
+    "timeMonth": 657,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2025-04-17": 2
+      "2025-04-17": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://adacnet.devilcraft.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/adacnet.devilcraft.eu.ico",
     "slug": "adac-net-web2",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 134,
-    "timeDay": 131,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 135,
+    "timeDay": 139,
     "timeWeek": 154,
-    "timeMonth": 134,
-    "timeYear": 134,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-04-17": 1
+      "2025-04-17": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "45.84.196.164",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 118,
-    "timeWeek": 135,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 116,
+    "timeDay": 128,
+    "timeWeek": 137,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-04-17": 0
+      "2025-04-17": 7
     }
   }
 ]
